@@ -9,7 +9,7 @@ This page is used to inform visitors regarding our policies with the collection,
 
 For a better experience, while using our Service, we do not require you to provide us with any personally identifiable information. Guitar Journey does not require user registration or account creation to function. 
 
-The app does use third-party services (such as Google Play Services) that may collect information used to identify you, primarily for the purpose of app analytics, purchase verification, and crash reporting to help us improve the application's stability.
+The app does use third-party services that may collect information used to identify you, primarily for the purpose of app analytics, purchase verification, and crash reporting to help us improve the application's stability.
 
 ### Log Data
 
